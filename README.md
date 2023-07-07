@@ -1,2 +1,2 @@
 # LSE_DA_NHS_analysis
-LSE assignment Course2
+LSE Data Analytics Course: Assignment 2
